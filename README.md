@@ -19,4 +19,7 @@ npx create-expo-app -e with-router
 
 ## Screenshots
 
+![Screenshot_20230525_214104_Expo Go](https://github.com/nitinravi/Jobify/assets/62639059/36552e99-be07-408f-97cf-16f051f5ed4a)
+![Screenshot_20230525_220949_Expo Go](https://github.com/nitinravi/Jobify/assets/62639059/88605054-6b5f-41dd-9805-efc021b891bc)
+
 
